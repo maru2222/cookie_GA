@@ -69,6 +69,9 @@
   #accept-cookie {
     font-size: 0.9rem;
     padding: 0.5rem 1rem;
+    width: 50%;
+    margin: 0 auto;
+    box-sizing: border-box;
   }
 }
 @media (width <= 480px) {
